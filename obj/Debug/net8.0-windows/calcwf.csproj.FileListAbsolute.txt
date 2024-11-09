@@ -1,0 +1,16 @@
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\bin\Debug\net8.0-windows\calcwf.exe
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\bin\Debug\net8.0-windows\calcwf.deps.json
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\bin\Debug\net8.0-windows\calcwf.runtimeconfig.json
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\bin\Debug\net8.0-windows\calcwf.dll
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\bin\Debug\net8.0-windows\calcwf.pdb
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\calcwf.csproj.GenerateResource.cache
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\calcwf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\calcwf.AssemblyInfoInputs.cache
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\calcwf.AssemblyInfo.cs
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\calcwf.csproj.CoreCompileInputs.cache
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\calcwf.dll
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\refint\calcwf.dll
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\calcwf.pdb
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\calcwf.genruntimeconfig.cache
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\ref\calcwf.dll
+C:\Users\Ehab\Desktop\all test\test c#\calcwf\calcwf\obj\Debug\net8.0-windows\calcwf.frmClac.resources
